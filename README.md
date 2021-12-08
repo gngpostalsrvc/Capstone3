@@ -1,0 +1,1 @@
+A repository for my third capstone project for the Springboard Data Science Career track, "Linguistic Dating of the Hebrew Bible." Here you will find raw and processed data, documentation, and project notebooks dedicated to data wrangling, exploratory data analysis, preprocessing and modeling.
